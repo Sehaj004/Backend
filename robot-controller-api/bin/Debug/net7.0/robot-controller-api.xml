@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>robot-controller-api</name>
+    </assembly>
+    <members>
+        <member name="M:robot_controller_api.Controllers.MapsController.GetMapsArray">
+            <summary>
+            Endpoint to fetch all maps.
+            </summary>
+            <returns>All maps.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.GetMapSquare">
+            <summary>
+            Endpoint to fetch square maps.
+            </summary>
+            <returns>All square maps.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.GetMapByID(System.Int32)">
+            <summary>
+            Endpoint to fetch a map by its ID.
+            </summary>
+            <param name="id">The ID of the map.</param>
+            <returns>The map with the specified ID.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.PostMap(robot_controller_api.Map)">
+            <summary>
+            Endpoint to add a new map.
+            </summary>
+            <param name="map">The new map.</param>
+            <returns>The newly created map.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.PutMap(System.Int32,robot_controller_api.Map)">
+            <summary>
+            Endpoint to update a map.
+            </summary>
+            <param name="id">The ID of the map to update.</param>
+            <param name="map">The updated map data.</param>
+            <returns>Status code indicating success or failure.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.DeleteMap(System.Int32)">
+            <summary>
+            Endpoint to delete a map.
+            </summary>
+            <param name="id">The ID of the map to delete.</param>
+            <returns>Status code indicating success or failure.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.GetMap(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Endpoint to check if map index is valid.
+            </summary>
+            <param name="id">The ID of the map.</param>
+            <param name="x">The X coordinate of the map index.</param>
+            <param name="y">The Y coordinate of the map index.</param>
+            <returns>True if the map index is valid, false otherwise.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.GetAllRobotCommands">
+            <summary>
+            Endpoint to fetch all robot commands.
+            </summary>
+            <returns>All robot commands.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.GetMoveCommands">
+            <summary>
+            Endpoint to fetch move commands.
+            </summary>
+            <returns>All move commands.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.GetCommandsByid(System.Int32)">
+            <summary>
+            Endpoint to fetch a command by its ID.
+            </summary>
+            <param name="id">The ID of the command.</param>
+            <returns>The command with the specified ID.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.AddRobotCommand(robot_controller_api.RobotCommand)">
+            <summary>
+            Endpoint to add a new command.
+            </summary>
+            <param name="newCommand">The new robot command.</param>
+            <returns>The newly created robot command.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.UpdateRobotCommand(System.Int32,robot_controller_api.RobotCommand)">
+            <summary>
+            Endpoint to update a command.
+            </summary>
+            <param name="id">The ID of the command to update.</param>
+            <param name="newCommand">The updated command data.</param>
+            <returns>Status code indicating success or failure.</returns>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.DeleteRobotCommand(System.Int32)">
+            <summary>
+            Endpoint to delete a command.
+            </summary>
+            <param name="id">The ID of the command to delete.</param>
+            <returns>Status code indicating success or failure.</returns>
+        </member>
+    </members>
+</doc>
