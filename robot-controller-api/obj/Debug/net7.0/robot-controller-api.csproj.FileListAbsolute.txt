@@ -1,0 +1,66 @@
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/appsettings.Development.json
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/appsettings.json
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/robot-controller-api
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/robot-controller-api.deps.json
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/robot-controller-api.runtimeconfig.json
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/robot-controller-api.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/robot-controller-api.pdb
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.csproj.AssemblyReference.cache
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.AssemblyInfoInputs.cache
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.AssemblyInfo.cs
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.csproj.CoreCompileInputs.cache
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/staticwebassets/msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/staticwebassets/msbuild.build.robot-controller-api.props
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.robot-controller-api.props
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.robot-controller-api.props
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/scopedcss/bundle/robot-controller-api.styles.css
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.csproj.CopyComplete
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/refint/robot-controller-api.dll
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.pdb
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/robot-controller-api.genruntimeconfig.cache
+/Users/anshpreetsingh/Desktop/SIT331 SECURE BACKEND SERVICES/3.2P/robot-controller-api/obj/Debug/net7.0/ref/robot-controller-api.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\appsettings.json
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\robot-controller-api.exe
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\robot-controller-api.deps.json
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\robot-controller-api.runtimeconfig.json
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\robot-controller-api.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\robot-controller-api.pdb
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.csproj.AssemblyReference.cache
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.AssemblyInfoInputs.cache
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.AssemblyInfo.cs
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.csproj.CoreCompileInputs.cache
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.build.robot-controller-api.props
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\scopedcss\bundle\robot-controller-api.styles.css
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.csproj.CopyComplete
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\refint\robot-controller-api.dll
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.pdb
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\robot-controller-api.genruntimeconfig.cache
+C:\Users\anshp\OneDrive\Desktop\3.2P\robot-controller-api\obj\Debug\net7.0\ref\robot-controller-api.dll
